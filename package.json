@@ -1,0 +1,22 @@
+{
+  "name": "a1-stat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mygummy/a1-stat.git"
+  },
+  "bin": {
+    "a1-stat": "./main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mygummy/a1-stat/issues"
+  },
+  "homepage": "https://github.com/mygummy/a1-stat#readme"
+}
